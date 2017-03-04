@@ -1,0 +1,21 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+#main-content {
+    width: auto;
+}
+
+#sidebar {
+    display: none;
+}
+
+body header {
+    background: #333;
+
+    .inner {
+        color: #fff;
+        font-size: 18px;
+    }
+}
