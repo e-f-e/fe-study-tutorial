@@ -15,8 +15,10 @@
 ### 开源
 
 * [slim.js](https://github.com/eavichay/slim.js)
+
     Slim.js is a lightning fast library for development of native web-components. No black magic. It uses javascript’s inheritance mechanism to boost up HTML elements with superpowers.
 * [axios](https://github.com/mzabriskie/axios)
+
     Promise based HTTP client for the browser and node.js
 
 ### 社区热点
