@@ -2,7 +2,7 @@
 
 ## navigator
 
-### [挨踢路透社前端半月刊](./papers/paper.md)
+### [挨踢路透社前端月刊](./papers/paper.md)
 
 ### [挨踢路透社前端 wiki](./wiki/index.md)
 
