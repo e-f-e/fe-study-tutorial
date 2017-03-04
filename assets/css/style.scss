@@ -171,6 +171,16 @@ body {
     a:visited {
         color: #aaa;
     }
+
+    header {
+        a.button {
+            color: #fff;
+
+            &:hover {
+                color: #eee;
+            };
+        }
+    }
 }
 
 body header {
@@ -188,10 +198,5 @@ body header {
 @media only screen and (max-width: 767px) {
     header a.button {
         background: #ffffff;
-        color: #333;
-    }  
-
-    header a.button:hover {
-        color: #111111;
     }  
 }
