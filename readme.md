@@ -1,4 +1,4 @@
-## 挨踢路透社前端半月刊
+## [挨踢路透社前端半月刊](https://e-f-e.github.io/fe-study-tutorial/index.html)
 
 你是否每天都会读几篇技术文章，每天关注大牛的微博，在 github 上 fork/star 了许多的项目，混迹于各社区论坛，但依然感觉空荡荡的。
 
