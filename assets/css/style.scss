@@ -15,7 +15,20 @@ body header {
     background: #333;
 
     .inner {
-        color: #fff;
-        font-size: 18px;
+        h2 {
+            color: #fff;
+            font-size: 18px;
+        }
     }
+}
+
+@media only screen and (max-width: 767px) {
+    header a.button {
+        background: #ffffff;
+        color: #333;
+    }  
+
+    header a.button:hover {
+        color: #111111;
+    }  
 }
