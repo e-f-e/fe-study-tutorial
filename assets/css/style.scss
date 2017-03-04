@@ -158,6 +158,21 @@ body header .inner h2 { color: #fff; font-size: 18px; }
     display: none;
 }
 
+body {
+    font-family: Helvetica Neue,Helvetica,Tahoma,Arial,STXihei,Microsoft YaHei,微软雅黑,sans-serif;
+    a:link {
+        color: rgb(102, 204, 197);
+    }
+
+    a:hover {
+        color: #00c4a7;
+    }
+
+    a:visited {
+        color: #aaa;
+    }
+}
+
 body header {
     background: rgb(102, 204, 197);
     border-bottom: none;
