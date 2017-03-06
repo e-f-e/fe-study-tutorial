@@ -169,6 +169,7 @@ body {
     }
 
     a:visited {
+        color: #666;
     }
 
     header {
@@ -197,5 +198,6 @@ body header {
 @media only screen and (max-width: 767px) {
     header a.button {
         background: #ffffff;
+        color: #666;
     }  
 }

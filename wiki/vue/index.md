@@ -18,3 +18,8 @@
 
 * github: [https://github.com/vuejs/vue-router](https://github.com/vuejs/vue-router)
 * 文档: [http://router.vuejs.org/](http://router.vuejs.org/)
+
+### vue 源码学习
+
+* [deep-in-vue (by yangxiaofu)](https://github.com/xiaofuzi/deep-in-vue)
+* [vue 源码学习系列 (by 梁少峰)](https://github.com/youngwind/blog/labels/Vue)
