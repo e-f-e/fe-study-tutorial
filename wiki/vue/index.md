@@ -23,3 +23,10 @@
 
 * [deep-in-vue (by yangxiaofu)](https://github.com/xiaofuzi/deep-in-vue)
 * [vue 源码学习系列 (by 梁少峰)](https://github.com/youngwind/blog/labels/Vue)
+
+### 资源链接
+
+* [awesome-vue](https://github.com/vuejs/awesome-vue)
+* [https://alligator.io/vuejs/](https://alligator.io/vuejs/)
+* [vue job](https://vuejobs.com/?ref=vuejs)
+* [vue 论坛](https://forum.vuejs.org/c/chinese)
