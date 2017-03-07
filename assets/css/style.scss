@@ -161,7 +161,7 @@ body header .inner h2 { color: #fff; font-size: 18px; }
 body {
     font-family: Helvetica Neue,Helvetica,Tahoma,Arial,STXihei,Microsoft YaHei,微软雅黑,sans-serif;
     a:link {
-        color: rgb(102, 204, 197);
+        color: #009999;
     }
 
     a:hover {
@@ -169,7 +169,7 @@ body {
     }
 
     a:visited {
-        color: #666;
+        color: #009999;
     }
 
     header {
@@ -196,7 +196,7 @@ body header {
 }
 
 @media only screen and (max-width: 767px) {
-    header a.button {
+    body header a.button {
         background: #ffffff;
         color: #666;
     }  
