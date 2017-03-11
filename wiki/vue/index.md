@@ -23,6 +23,7 @@
 
 * [deep-in-vue (by yangxiaofu)](https://github.com/xiaofuzi/deep-in-vue)
 * [vue 源码学习系列 (by 梁少峰)](https://github.com/youngwind/blog/labels/Vue)
+* [Vue源码详解:compile,link,依赖,批处理...一网打尽，全解析! (by Chuck Liu)](http://chuckliu.me/#!/posts/58aefe61820ad92fbbe9a4e0)
 
 ### 资源链接
 
@@ -30,3 +31,6 @@
 * [https://alligator.io/vuejs/](https://alligator.io/vuejs/)
 * [vue job](https://vuejobs.com/?ref=vuejs)
 * [vue 论坛](https://forum.vuejs.org/c/chinese)
+* [element](https://element.eleme.io/)
+* [Vux](https://vux.li/)
+* [iView](https://www.iviewui.com/)
